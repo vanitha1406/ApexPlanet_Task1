@@ -1,3 +1,3 @@
 <?php
-echo "Hello Vanitha";
+echo "<h1>Welcome to ApexPlanet Internship</h1>";
 ?>
